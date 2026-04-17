@@ -35,7 +35,7 @@ Run:
 ```bash
 python task1_auth.py
 
----
+
 **## Task 2 - SIEM Lite**
 
 Features:
